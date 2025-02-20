@@ -41,12 +41,7 @@ import time
 ## Functions
 The notebook contains the following custom functions:
 
-```python
-No custom functions found.
-```
 
-## License
-This project is licensed under the MIT License.
 
 ## Author
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
+Prabhu Shankar - [Your GitHub Profile](https://github.com/prabhushankar-ps)
