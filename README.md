@@ -35,7 +35,7 @@ import time
    ```
 4. Open the Jupyter Notebook:
    ```sh
-   jupyter notebook hw.ipynb
+   jupyter notebook Case_competition.ipynb
    ```
 
 ## Functions
