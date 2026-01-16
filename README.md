@@ -77,9 +77,9 @@ Approximate accuracies:
 - Jupyter Notebook
 
 ## Authors
+- Prabhu Shankar
 - Raheela Charania
 - Anmol Anchala
-- Prabhu Shankar
 
 ## Disclaimer
 This project is for academic and research purposes only and is not intended for direct clinical use.
